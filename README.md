@@ -1,4 +1,4 @@
-# Contoso Candidate Travel Policy
+# Expense Policy
  
 Please submit your expenses within 30 days of your interview date. The below outlines the expense categories and limitations that are eligible for reimbursement, and expenses that cannot be reimbursed. Contoso assumes no obligation to reimburse candidates for expenses that are not in compliance with this policy. All expense information that you submit will be used for the sole purpose of processing your reimbursement only. If you have questions, please contact your Interview Scheduler.
  
